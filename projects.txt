@@ -1,0 +1,11 @@
+projects
+1.tick tac toe game
+2.odd or even
+2.recipe book
+name:
+ingredients:
+how to do:
+using class and put it in a file and its name is name of recipe
+4. 2 leet code questions
+easy aor medium
+ suubmit using github
